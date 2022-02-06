@@ -35,11 +35,11 @@
 
 ## Use cases
 
-- Mains detection (Module has two outputs for every AC input)
-- ZCD - Zero Crossing Detection
-- Mains Frequency counting
-- Three Phase sequence checking (order of phase lines connections)
-- Checking interphase shift
+- Mains detection (logical output HIGH when phase is available)
+- **ZCD** - Zero Crossing Detection
+- Mains frequency monitoring
+- Checking of connection order of three phase systems
+- Checking shift between phases
 - Detection of power failures
 - AC motor monitoring
 - ...and others (check original Dextrel page for more applications): https://web.archive.org/web/20180209005931/http://www.dextrel.net:80/diyzerocrosser.htm 
