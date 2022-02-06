@@ -48,7 +48,7 @@
 
 ## Schematics
 
-![FlameIT - AC Mains and Zero Crossing Precision Detector](./img/Schematic_AC Mains and Zero Crossing Detector v1.1_2022-02-06.png)
+![FlameIT - AC Mains and Zero Crossing Precision Detector](./img/Schematic_AC_Mains_and_Zero_Crossing_Detector_v1.1_2022-02-06.png)
 
 Original concept was created by Dextrel. Our module has extra imput protection and MDL (Mains Detection Logic) output.
 
