@@ -23,18 +23,19 @@
 - AC input protection
 - 4 independent AC inputs
 - 2 low side outputs for each input
-  * **ZCD - Zero Crossing Detection** pulse (HIGH level pulled to GND)
-  * **MDL - Mains Detection Logic** (HIGH when mains is detected)
+  - **ZCD - Zero Crossing Detection** pulse (HIGH level pulled to GND)
+  - **MDL - Mains Detection Logic** (HIGH when mains is detected)
 
 ## Use cases
 
-* Mains detection (Module has two outputs for every AC input)
-* ZCD - Zero Crossing Detection
-* Mains Frequency counting
-* Three Phase sequence checking (order of phase lines connections)
-* Checking interphase shift
-* Detection of power failures
-* ...and others (check original Dextrel page for more applications): https://web.archive.org/web/20180209005931/http://www.dextrel.net:80/diyzerocrosser.htm 
+- Mains detection (Module has two outputs for every AC input)
+- ZCD - Zero Crossing Detection
+- Mains Frequency counting
+- Three Phase sequence checking (order of phase lines connections)
+- Checking interphase shift
+- Detection of power failures
+- AC motor monitoring
+- ...and others (check original Dextrel page for more applications): https://web.archive.org/web/20180209005931/http://www.dextrel.net:80/diyzerocrosser.htm 
 
 ## Original design
 
@@ -46,7 +47,7 @@ https://web.archive.org/web/20180209005931/http://www.dextrel.net:80/diyzerocros
 
 ## Simulation
 
-* [Circuit Simulation](https://tinyurl.com/yasss96p)
+- [Circuit Simulation](https://tinyurl.com/yasss96p)
 
 Data for above simulator are also in: [./simulation/simulation.circuit](./simulation/simulation.circuit) file
 
@@ -104,14 +105,14 @@ Data for above simulator are also in: [./simulation/simulation.circuit](./simula
 
 ## Different designs
 
-* https://www.electroschematics.com/detector-module/
+- https://www.electroschematics.com/detector-module/
 
-* https://create.arduino.cc/projecthub/andrzejco/sensor-230v-ac-for-arduino-1b1109
+- https://create.arduino.cc/projecthub/andrzejco/sensor-230v-ac-for-arduino-1b1109
 
-* https://www.electronicsweekly.com/blogs/engineer-in-wonderland/improved-isolated-wide-range-zero-crossing-detector-needs-no-power-switch-2020-07/
+- https://www.electronicsweekly.com/blogs/engineer-in-wonderland/improved-isolated-wide-range-zero-crossing-detector-needs-no-power-switch-2020-07/
 
-* https://www.eevblog.com/forum/projects/mains-zero-crossing-detection/
+- https://www.eevblog.com/forum/projects/mains-zero-crossing-detection/
 
 ## Author
 
-* Paweł 'felixd' Wojciechowski
+- Paweł 'felixd' Wojciechowski
