@@ -32,6 +32,8 @@
 - 2 low side outputs for each AC input
   - **ZCD - Zero Crossing Detection** pulse (HIGH level pulled to GND)
   - **MDL - Mains Detection Logic** (HIGH when mains is detected)
+- spring clamp system terminal blocks on input and output
+- extra goldpin outputs on low side
 
 ## Use cases
 
