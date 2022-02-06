@@ -55,36 +55,53 @@ Data for above simulator are also in: [./simulation/simulation.circuit](./simula
 
 ![simulation2.png](./img/simulation2.png)
 
-## Photos
+![Simulation](./img/Symulacja5V.png)
+
+## Module testing
+
+![Oscilloscope ](./img/Photo-v1.0.jpg)
+
+### Phase Order Detection
+
+![Oscilloscope ](./img/PhaseOrderDetection.png)
+
+### Turn ON / OFF
+
+![Oscilloscope ](./img/ZC-230V-5V-10ms-TurnON.png)
+![Oscilloscope ](./img/ZC-230V-5V-5ms-TurnON.png)
+![Oscilloscope ](./img/MDL-230V-5V-20ms-TurnOFF.png)
+![Oscilloscope ](./img/MDL-230V-5V-5ms-TurnOFF.png)
+
+### Mains Detection Logic
 
 ![Oscilloscope ](./img/MDL-12V-100ms.png)
-![Oscilloscope ](./img/PhaseOrderDetection.png)
+![Oscilloscope ](./img/MDL-12V-2ms.png)
+![Oscilloscope ](./img/MDL-1V-2ms.png)
+![Oscilloscope ](./img/MDL-3V3-1ms.png)
+![Oscilloscope ](./img/MDL-5V-1ms.png)
+
+
+### Zero Crossing
+
+![Oscilloscope ](./img/ZC-230V-0,1V-1ms.png)
+![Oscilloscope ](./img/ZC-230V-0,2V-1ms.png)
+![Oscilloscope ](./img/ZC-230V-0,5V-1ms.png)
+![Oscilloscope ](./img/ZC-230V-1V-1ms.png)
 ![Oscilloscope ](./img/ZC-230V-3V3-1ms.png)
+![Oscilloscope ](./img/ZC-230V-5V-1ms.png)
+
+### Zero Crossing with Mains Detection Logic
+
 ![Oscilloscope ](./img/ZC-MDL-230V-5V-200uS-pulse-width.png)
 ![Oscilloscope ](./img/ZC-MDL-230V-5V.png)
-![Oscilloscope ](./img/MDL-12V-2ms.png)
-![Oscilloscope ](./img/Photo-v1.0.jpg)
-![Oscilloscope ](./img/ZC-230V-5V-10ms-TurnON.png)
 ![Oscilloscope ](./img/ZC-MDL-230V-5V-2ms-avgstatistics.png)
 ![Oscilloscope ](./img/ZC-MDL-5V-5ms-statistics.png)
-![Oscilloscope ](./img/MDL-1V-2ms.png)
-![Oscilloscope ](./img/Symulacja5V.png)
-![Oscilloscope ](./img/ZC-230V-5V-1ms.png)
 ![Oscilloscope ](./img/ZC-MDL-230V-5V-2ms.png)
-![Oscilloscope ](./img/MDL-230V-5V-20ms-TurnOFF.png)
-![Oscilloscope ](./img/ZC-230V-0,1V-1ms.png)
-![Oscilloscope ](./img/ZC-230V-5V-5ms-TurnON.png)
 ![Oscilloscope ](./img/ZC-MDL-230V-5V-2uS-pulse-falltime-avg.png)
-![Oscilloscope ](./img/MDL-230V-5V-5ms-TurnOFF.png)
-![Oscilloscope ](./img/ZC-230V-0,2V-1ms.png)
 ![Oscilloscope ](./img/ZC-MDL-230V-5V-10uS-pulse-risetime-avg.png)
 ![Oscilloscope ](./img/ZC-MDL-230V-5V-5uS-pulse-falltime.png)
-![Oscilloscope ](./img/MDL-3V3-1ms.png)
-![Oscilloscope ](./img/ZC-230V-0,5V-1ms.png)
 ![Oscilloscope ](./img/ZC-MDL-230V-5V-10uS-pulse-risetime.png)
 ![Oscilloscope ](./img/ZC-MDL-230V-5V-infpersistance-100uS.png)
-![Oscilloscope ](./img/MDL-5V-1ms.png)
-![Oscilloscope ](./img/ZC-230V-1V-1ms.png)
 ![Oscilloscope ](./img/ZC-MDL-230V-5V-200uS-pulse-width-avg.png)
 ![Oscilloscope ](./img/ZC-MDL-230V-5V-infpersistance-200uS.png)
 
