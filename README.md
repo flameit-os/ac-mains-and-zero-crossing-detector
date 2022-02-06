@@ -1,10 +1,9 @@
 # AC Mains and Zero Crossing Precision Detector
 
 ![PCB PNG](./img/pcb.png)
+![AC Mains and Zero Crossing Precision Detector v1.0](./img/Photo-v1.0.jpg)
 
-## Caution!
-
-![Electric Shock](./img/electric-shock.jpg)
+## **Caution!**
 
 **CAUTION:** this module was design to connect directly to the AC grid power. Its misuse might cause **ELECTRIC SHOCK or FIRE**.
 
@@ -58,8 +57,6 @@ Data for above simulator are also in: [./simulation/simulation.circuit](./simula
 ![Simulation](./img/Symulacja5V.png)
 
 ## Module testing
-
-![Oscilloscope ](./img/Photo-v1.0.jpg)
 
 ### Phase Order Detection
 
