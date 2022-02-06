@@ -5,7 +5,13 @@
 
 ## **Caution!**
 
-**CAUTION:** this module was design to connect directly to the AC grid power. Its misuse might cause **ELECTRIC SHOCK or FIRE**.
+```bash
+!!! Caution !!!
+
+ this module was design to connect directly to the AC grid power. Its misuse might cause ELECTRIC SHOCK or FIRE.
+
+ !!! Caution !!!
+```
 
 ## Features
 
