@@ -27,9 +27,9 @@
 - both 50Hz (1,2ms ZC pulse) and 60Hz (1ms ZC pulse) mains frequency compatible
 - highly stable with varying temperature
 - ROHS compliant (Pb-free)
-- AC input protection
-- 4 independent AC inputs
-- 2 low side outputs for each input
+- extra AC input protection (fuse and varistor)
+- 4 independent AC inputs on one module
+- 2 low side outputs for each AC input
   - **ZCD - Zero Crossing Detection** pulse (HIGH level pulled to GND)
   - **MDL - Mains Detection Logic** (HIGH when mains is detected)
 
@@ -119,6 +119,8 @@ Data for above simulator are also in: [./simulation/simulation.circuit](./simula
 - https://www.electronicsweekly.com/blogs/engineer-in-wonderland/improved-isolated-wide-range-zero-crossing-detector-needs-no-power-switch-2020-07/
 
 - https://www.eevblog.com/forum/projects/mains-zero-crossing-detection/
+
+- https://sound-au.com/appnotes/an005.htm
 
 ## Author
 
